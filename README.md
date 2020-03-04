@@ -2,7 +2,7 @@
 A detailled description of the electronic tools and supply availible.
 
 ## Tools : 
-* 1 x Generic soldering station with tip cleaner and adjistable temperature
+* 1 x Generic soldering station with tip cleaner and adjustable temperature
 * 1 x 0.4 mm Soldering tip
 * 1 x Helping hand with a magnifier
 * 1 x Memory card reader with it's carrying case
@@ -16,7 +16,7 @@ A detailled description of the electronic tools and supply availible.
 * 1 x Bi-directional Level shifter (TXB0104)
 * 1 x 12V to 5V converter, suitable for a RPi(jm64rp)
 * 1 x Dual full-bridge(L298)
-* 2 x Mirco USB to USB-A 
+* 2 x Mirco USB to USB-A cable
 * 1 x RPi 3 
 * 1 x Black RPi case
 * 1 x HDMI Male to Male cable
@@ -30,6 +30,11 @@ A detailled description of the electronic tools and supply availible.
 * 1 x 250g ø 1.5 mm lead-free Reel [Lötzinn] (a bit too think, ideally ø 0.5 mm)
 * 1 x Brazing paste LP 5 
 * 8 x 40x1 2mm pin connectors (bent 90°) 
+* 3 x Protyping board 
+* 1 x Set of plastic screw
+* 1 x Set of 1/4 W resistors (390 pieces)
+* 10 PN2222 (NPN) transistors
+* 1 x 15 m ø 0.2 mm² wire
 
 ## Miscellaneous :
 * 1 x small 12x9x1.5 cm project box
