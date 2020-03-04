@@ -21,7 +21,6 @@ A detailled description of the electronic tools and supply availible.
 * 1 x Black RPi case
 * 1 x HDMI Male to Male cable
 * 1 x Ultrasonic module (SRF08)
-*  x 
 
 ## Electronic components :
 * 4 x Small piezo sensors (ø 2.0 cm)
